@@ -1,37 +1,7 @@
----
-layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
----
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+# Who am I
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+When I was 6 years old I made a drawing of myself in the future and wrote on the margin: "I'll have brown hair, brown eyes. I'll be short and I'll be a scientist." Considering the odds, that is a pretty accurate description of myself. Maybe I should invest in divination, who knows.
 
-## Preview
+My academic background: I graduated in Philosophy (University of São Paulo - USP). Then, I pursued a Masters in Logic, still in Philosophy (University of Campinas - UNICAMP). During that period, I developed an interest in more practical applications of the stuff I was studying. I started to code as a hobby and got myself in a Computational Linguistics study group. After a mild identity crisis, and after completing the Master, I made an U-turn and got myself in a Computer Science PhD program. Nowadays, I work mostly within Artificial Intelligence, in Knowledge Representation. I am particularly interested in the intersection between Logic, Knowledge Representation and Cognitive Science.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Also, I really like to hike.
